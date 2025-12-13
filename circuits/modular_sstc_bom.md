@@ -10,6 +10,9 @@ Module A — Driver PCB
 - EMI input filter components: 1x package
 - Control interface header (J1): 1x
 - Enclosure and mounting hardware: as needed
+- J2 — Power link (Module A to Module B): 2-pin header
+  - Pin 1: V_GD_ISO
+  - Pin 2: GND_GD_ISO
 
 Module B — External Coil Assembly
 - MOSFETs (Q1–Q4): 4x
